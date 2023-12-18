@@ -34,6 +34,9 @@ The `sorting_times.csv` file contains the following columns:
 - `Bubble Sort Time (s)`: Time taken by Bubble Sort in seconds.
 - `Quick Sort Time (s)`: Time taken by Quick Sort in seconds.
 - `Merge Sort Time (s)`: Time taken by Merge Sort in seconds.
+- 
+## Graph of Sorting Times
+![Sorting Times Graph](output/Figure_1.png)
 
 ## Additional Notes
 - The C++ program includes a timeout mechanism set to 300 seconds. Sorting algorithms will exit early if they take too long.
